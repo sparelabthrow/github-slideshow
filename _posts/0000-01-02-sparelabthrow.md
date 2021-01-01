@@ -3,5 +3,5 @@
 layout: slide
 title: Welcome to Sparethrow's slide!"
 I changed the file
-Your text
+This is my awsome slide.
 Use the left arrow to go back!
